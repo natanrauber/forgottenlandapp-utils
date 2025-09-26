@@ -1,0 +1,12 @@
+include: package:lints/recommended.yaml
+
+analyzer:
+  language:
+    strict-inference: true
+    strict-raw-types: true
+
+linter:
+  rules:
+    always_specify_types: true
+    prefer_relative_imports: true
+    always_use_package_imports: false

@@ -1,0 +1,15 @@
+name: forgottenlandapp_utils
+description: Forgotten Land App utils
+version: 25.09.26+1
+publish_to: none
+
+environment:
+  sdk: ">=3.3.1"
+
+dependencies:
+  dotenv: ^4.1.0
+  shelf: ^1.1.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.16.0
