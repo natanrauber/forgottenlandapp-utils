@@ -1,7 +1,7 @@
 // ignore_for_file: always_specify_types
 
 extension MapExtension on Map<String, dynamic> {
-  /// [clean] Map<String, dynamic>
+  /// [clean]
   /// * trim strings
   /// * remove empty strings
   /// * remove null fields
